@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
-const App = () => {
+const App = (props) => {
     return (
         <h1>
             Hola Mundo!!!
