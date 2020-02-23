@@ -4,7 +4,7 @@ import ReactDom from 'react-dom';
 const App = (props) => {
     return (
         <h1>
-            Hola Mundo!!!
+            Hola Mundo eslint!!!
         </h1>
     );
 };
