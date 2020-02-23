@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 
-const App = (props) => {
+const App = () => {
     return (
-        <div>
-            hello world
-        </div>
+        <h1>
+            Hola Mundo!!!
+        </h1>
     );
 };
 
